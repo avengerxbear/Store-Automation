@@ -1,5 +1,2 @@
-GIT HUB LINK
-https://github.com/avengerxbear/Store-Automation
-
 GOOGLE DRVE LINK FOR CYPRESS AUTOMATION POM FILES 
 https://drive.google.com/drive/folders/15gUiKfMXmISgysnOKzBqPnkBj2f80g6h?usp=sharing
